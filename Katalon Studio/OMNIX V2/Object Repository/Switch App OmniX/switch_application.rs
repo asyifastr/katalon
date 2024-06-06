@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>switch_application</name>
+   <tag></tag>
+   <elementGuidId>177ecb9f-6eb1-4d0f-ace3-449f82dba5fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-1lq7emp.ant-btn-default.ant-btn-sm.ant-tooltip-open > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@onx/wrapper-main']/section/section/header/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b114af69-4587-49a0-91ac-f1aa4cbf2fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Survey</value>
+      <webElementGuid>6bebf58b-ff01-4143-8ccf-13309e414657</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@onx/wrapper-main&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider css-1lq7emp&quot;]/section[@class=&quot;ant-layout css-1lq7emp&quot;]/header[@class=&quot;ant-layout-header css-1lq7emp&quot;]/div[1]/button[@class=&quot;ant-btn css-1lq7emp ant-btn-default ant-btn-sm ant-tooltip-open&quot;]/span[1]</value>
+      <webElementGuid>105a5a77-859c-4ad5-adab-006d36b34df2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@onx/wrapper-main']/section/section/header/div/button/span</value>
+      <webElementGuid>09680ace-24af-483c-a2fa-c560186f3c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      <webElementGuid>e4febafa-966b-43c0-8bb3-429a7a84c770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/following::span[3]</value>
+      <webElementGuid>903830a4-b997-495a-81b9-8b6691447350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nabila azakaya'])[1]/preceding::span[4]</value>
+      <webElementGuid>f04b7815-3402-4adc-8ce3-1f62286a450a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='agent'])[1]/preceding::span[5]</value>
+      <webElementGuid>7c473dae-1de9-457e-833f-66c1d54f3f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Survey']/parent::*</value>
+      <webElementGuid>7ac4d529-176c-47a0-8890-a0356c81689c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>0c64f891-5fb7-4d67-880d-8009b3003419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Survey' or . = 'Survey')]</value>
+      <webElementGuid>d079ab66-61d9-4c65-9916-f1ab5ccb6b90</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

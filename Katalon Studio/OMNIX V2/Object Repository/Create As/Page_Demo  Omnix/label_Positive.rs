@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Positive</name>
+   <tag></tag>
+   <elementGuidId>d9d617db-54a0-41b8-ab7b-4419a6589923</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.ant-radio-button-wrapper.ant-radio-button-wrapper-in-form-item.css-1lq7emp</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='basic_sentiment']/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>49082c67-39f2-442a-bbef-a09c1e09e17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-radio-button-wrapper ant-radio-button-wrapper-in-form-item css-1lq7emp</value>
+      <webElementGuid>1d9fdff0-af27-4a2f-92ec-01b3e2497390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Positive</value>
+      <webElementGuid>3d20a7a1-c31b-4767-9abd-8af527137f50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;basic_sentiment&quot;)/div[@class=&quot;ant-radio-group ant-radio-group-outline css-1lq7emp&quot;]/label[@class=&quot;ant-radio-button-wrapper ant-radio-button-wrapper-in-form-item css-1lq7emp&quot;]</value>
+      <webElementGuid>357dad9f-fc89-4e56-a5ed-a6de3e856949</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='basic_sentiment']/div/label</value>
+      <webElementGuid>b8320aa0-4e2f-41b9-a25c-f6aa1775d8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sentiment'])[1]/following::label[1]</value>
+      <webElementGuid>8887833e-b848-484e-a225-0e98de844dbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='jakarta'])[1]/following::label[2]</value>
+      <webElementGuid>1f877d95-9e49-4e81-9791-3420b56f1463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Neutral'])[1]/preceding::label[1]</value>
+      <webElementGuid>32009c98-00f1-45d5-8cab-8a04d869e506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div[2]/div/div/div/div/label</value>
+      <webElementGuid>a0dc5fe8-74a4-461d-b106-14e44dacf54f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Positive' or . = 'Positive')]</value>
+      <webElementGuid>dc1564d1-0f7d-4dd0-8a6c-cc91396dc72b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

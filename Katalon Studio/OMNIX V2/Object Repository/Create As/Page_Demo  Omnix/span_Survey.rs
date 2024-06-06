@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Survey</name>
+   <tag></tag>
+   <elementGuidId>81d89461-3f8e-4ba8-8953-c05fa670a285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-1lq7emp.ant-btn-default.ant-btn-sm.ant-tooltip-open > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@onx/wrapper-main']/section/section/header/div/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6449e936-30f6-4897-847b-42295af8b091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Survey</value>
+      <webElementGuid>a0951433-6d26-422c-8422-330b1ef067e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@onx/wrapper-main&quot;)/section[@class=&quot;ant-layout ant-layout-has-sider css-1lq7emp&quot;]/section[@class=&quot;ant-layout css-1lq7emp&quot;]/header[@class=&quot;ant-layout-header css-1lq7emp&quot;]/div[1]/button[@class=&quot;ant-btn css-1lq7emp ant-btn-default ant-btn-sm ant-tooltip-open&quot;]/span[1]</value>
+      <webElementGuid>4a47cf12-0e0e-494d-af39-de9b77b10fb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@onx/wrapper-main']/section/section/header/div/button/span</value>
+      <webElementGuid>c39d8324-abe8-4f3b-a3d7-ac9e17627d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::span[1]</value>
+      <webElementGuid>ebbf706e-a7c1-4221-b6b9-0f107f59f7b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customers'])[1]/following::span[3]</value>
+      <webElementGuid>3464e514-1e00-4bde-99c3-535780f663a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nabila azakaya'])[1]/preceding::span[4]</value>
+      <webElementGuid>dc537fc2-33d3-404e-8819-c5cf5af98e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='agent'])[1]/preceding::span[5]</value>
+      <webElementGuid>1c3696d8-39ab-4fa4-9e3b-74c1c6874336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Survey']/parent::*</value>
+      <webElementGuid>ce46e4f5-dde1-4ffa-8c32-9b5a08f36adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>3b3de1c7-9f96-42b5-863d-32788d45f785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Survey' or . = 'Survey')]</value>
+      <webElementGuid>5381b97d-9159-4a53-b227-18ad38d904fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

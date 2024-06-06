@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>workspace</name>
+   <tag></tag>
+   <elementGuidId>d3211d59-918e-4c51-a2e8-31ce52b1db6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ant-list-item-meta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='rc-tabs-0-panel-assigned']/div/div[3]/div/div/ul/li/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ed0dac44-d733-4461-964d-83bfebcf0180</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-list-item-meta</value>
+      <webElementGuid>e863a520-1090-4612-aa7d-f6e59c14e8d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>aasyifa06/06/2024 16:25:36testingqaAccount : manual</value>
+      <webElementGuid>1f2b3c3f-5300-46c3-9bc9-a93a5882ca7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-assigned&quot;)/div[1]/div[@class=&quot;ant-list ant-list-split tabs-interaction css-1lq7emp&quot;]/div[@class=&quot;ant-spin-nested-loading css-1lq7emp&quot;]/div[@class=&quot;ant-spin-container&quot;]/ul[@class=&quot;ant-list-items&quot;]/li[@class=&quot;ant-list-item&quot;]/div[@class=&quot;ant-list-item-meta&quot;]</value>
+      <webElementGuid>0622ba76-d952-422e-96b7-2c30cab0c658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-assigned']/div/div[3]/div/div/ul/li/div</value>
+      <webElementGuid>0097a248-3650-4afc-a3ae-092fb2a72bed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click plus button to have a conversation'])[1]/following::div[6]</value>
+      <webElementGuid>bee61d84-882d-4bbc-adbe-e9a714b7ca3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::div[14]</value>
+      <webElementGuid>6a37c12d-2c3c-4859-ad05-19f23b3a5b54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>05a70569-710f-4086-b3f1-cb77b35294cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'aasyifa06/06/2024 16:25:36testingqaAccount : manual' or . = 'aasyifa06/06/2024 16:25:36testingqaAccount : manual')]</value>
+      <webElementGuid>9402fd1b-67f4-406a-9dcc-7e9b3cfea71e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

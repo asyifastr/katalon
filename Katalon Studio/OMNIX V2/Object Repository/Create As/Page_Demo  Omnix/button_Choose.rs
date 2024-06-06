@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Choose</name>
+   <tag></tag>
+   <elementGuidId>8b2609e8-9f8d-4c63-b551-a8807699cd7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ant-table-cell.ant-table-cell-row-hover > div > div > button.ant-btn.css-1qb5nhr.ant-btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[36]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4750f940-551c-4d91-b2b4-cf178f766fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>81136c63-a08b-4b5c-84b7-8298bab8c0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-1qb5nhr ant-btn-primary</value>
+      <webElementGuid>61eb5b12-06aa-4942-a888-af85984da569</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose</value>
+      <webElementGuid>a3bc6a7b-1146-4b66-87ab-926034240455</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[6]/div[@class=&quot;ant-modal-root css-1lq7emp&quot;]/div[@class=&quot;ant-modal-wrap ant-modal-centered&quot;]/div[@class=&quot;ant-modal css-1lq7emp&quot;]/div[@class=&quot;ant-modal-content&quot;]/div[@class=&quot;ant-modal-body&quot;]/div[2]/div[@class=&quot;ant-table-wrapper css-1qb5nhr&quot;]/div[@class=&quot;ant-spin-nested-loading css-1qb5nhr&quot;]/div[@class=&quot;ant-spin-container&quot;]/div[@class=&quot;ant-table&quot;]/div[@class=&quot;ant-table-container&quot;]/div[@class=&quot;ant-table-content&quot;]/table[1]/tbody[@class=&quot;ant-table-tbody&quot;]/tr[@class=&quot;ant-table-row ant-table-row-level-0&quot;]/td[@class=&quot;ant-table-cell ant-table-cell-row-hover&quot;]/div[1]/div[1]/button[@class=&quot;ant-btn css-1qb5nhr ant-btn-primary&quot;]</value>
+      <webElementGuid>2d8a9df2-4972-4113-98f4-2660384d1502</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[36]</value>
+      <webElementGuid>c5bbd0be-7f76-4275-b1ea-1958b296187b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket indibiz belum aktif'])[2]/following::button[1]</value>
+      <webElementGuid>343a1d9e-fab2-4baf-b389-f71fd1208c82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket indibiz belum aktif'])[1]/following::button[1]</value>
+      <webElementGuid>0b3fbc92-9c29-49f3-ae8b-81f7cf0fa26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi'])[2]/preceding::button[1]</value>
+      <webElementGuid>272a5906-9c64-4e54-9fbc-812ad778686e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[6]/div/div/button</value>
+      <webElementGuid>845d2029-5c16-47f5-8473-f4d8598eac23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Choose' or . = 'Choose')]</value>
+      <webElementGuid>54af5490-9fdf-45f9-9e3f-642a824698e1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

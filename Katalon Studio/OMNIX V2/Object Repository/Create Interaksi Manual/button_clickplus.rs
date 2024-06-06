@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_clickplus</name>
+   <tag></tag>
+   <elementGuidId>e99b3041-9682-4fe2-841e-37e241413c38</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.css-1lq7emp.ant-btn-circle.ant-btn-primary.ant-btn-sm.ant-btn-icon-only.ant-tooltip-open</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[21]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3e2cef05-edf5-4644-b31e-57becbbab498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a5d887d3-7436-45f8-bd9b-295e444bc3da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-btn css-1lq7emp ant-btn-circle ant-btn-primary ant-btn-sm ant-btn-icon-only ant-tooltip-open</value>
+      <webElementGuid>641f209f-977f-4433-9d64-3a2277fa2851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-tabs-0-panel-assigned&quot;)/div[1]/div[1]/div[2]/button[@class=&quot;ant-btn css-1lq7emp ant-btn-circle ant-btn-primary ant-btn-sm ant-btn-icon-only ant-tooltip-open&quot;]</value>
+      <webElementGuid>35c0c8c7-bc15-4309-96bc-dcd8c33a095a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[21]</value>
+      <webElementGuid>6775b0ba-0579-40e0-a999-f2e8eacc67c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='rc-tabs-0-panel-assigned']/div/div/div[2]/button</value>
+      <webElementGuid>723ddfd3-697a-42ce-98e4-29bec3e81c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click plus button to have a conversation'])[1]/following::button[1]</value>
+      <webElementGuid>6798d425-7522-4de5-b7cd-0ff68884a7f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::button[2]</value>
+      <webElementGuid>49cca58f-e72e-45a7-920e-0e555fcedde4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a'])[1]/preceding::button[1]</value>
+      <webElementGuid>2660c184-d7be-4649-bfa7-dd5fc05e2b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='asyifa'])[1]/preceding::button[1]</value>
+      <webElementGuid>84856ec2-2fe0-4b70-8582-ce13dcf3c15b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>8979312c-8cac-41b3-8a34-bee95306fcd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>dda7c7e7-cb81-48ca-abad-e4d8c9b5b6da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
